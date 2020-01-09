@@ -6,7 +6,7 @@
 
 取材自以下資源
 --------
-skydoves                                                                 
+GoldMovies                                                                 
 https://github.com/skydoves/GoldMovies       
 
 AndroidRibbon                                                                 
