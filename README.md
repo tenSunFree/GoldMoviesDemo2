@@ -2,7 +2,7 @@
 
 簡介
 ==================================
-如果對於 shimmering效果 ArchitectureComponents MVVM架構 有興趣的話, 可以參考看看                                   
+如果對於 shimmering效果 ArchitectureComponents coroutines MVVM架構 有興趣的話, 可以參考看看                                   
 
 取材自以下資源
 --------
